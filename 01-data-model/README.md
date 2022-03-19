@@ -28,10 +28,10 @@ Run:
 
 ## Notes
 
-### dunder methods
+### dunder methods (class)
 
 ```python
-\_\_getitem\_\_
+__getitem__
 ```
 
 ### [collections](https://docs.python.org/3/library/collections.html#)
